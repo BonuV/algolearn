@@ -3,3 +3,5 @@ def sortedArraysquares(nums: list[int]) -> list:
     
 
 print(sortedArraysquares([-7,-3,2,3,11]))
+
+/Users/bonu/Documents/git/algolearn/day2/squares_sortedarray.py
